@@ -14,5 +14,5 @@ at the given timestep.
 ![alt text](https://github.com/koalathekid/tile_mover/blob/main/image/circleTile.gif)
 
 This is a reference I was using when designing the tile generator. 
-![alt text](https://github.com/koalathekid/tile_mover/blob/main/image/ref-circle.gif)
+![alt text](https://github.com/koalathekid/tile_mover/blob/main/image/ref-circle.jpg)
 
